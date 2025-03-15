@@ -1,16 +1,48 @@
-## Hi there 👋
+Hi, I'm S.N. Mohammad Yaseen
 
-<!--
-**SNMohammad-yaseen/SNMohammad-yaseen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning
 
-Here are some ideas to get you started:
+I am a passionate Data Analyst currently pursuing a B.Tech in Data Science. I love working with data, uncovering insights, and building impactful dashboards & ML models. Currently, I am working on Stock Market Analysis using Tableau & Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+What I Do:
+- Data Analysis: Python (Pandas, NumPy), SQL, Excel, Power BI, Tableau
+- Machine Learning: Regression, Classification, Data Preprocessing
+- Projects: Data Cleaning, Dashboard Creation, AI-Based Analysis
+- Looking for Internships & Jobs in Data Science
+
+---
+
+Featured Projects
+Stock Market Analysis using Tableau & Python
+- Analyzed stock trends using Python & SQL
+- Created an interactive Tableau dashboard for visualization
+- Extracted insights to predict market movement
+
+
+Data Cleaning & Processing with SQL
+- Cleaned large datasets using SQL queries
+- Removed duplicates, handled missing values, and optimized data
+- Created a structured dataset ready for machine learning
+
+
+Machine Learning Model (Regression)
+- Built a Linear Regression model to predict outcomes
+- Used Scikit-learn for model training & evaluation
+- Visualized results using Matplotlib & Seaborn
+
+
+---
+
+Tech Stack & Skills
+Languages: Python, SQL 
+Libraries: Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
+Tools: Tableau, Power BI, Jupyter Notebook, Google Colab  
+Databases: MySQL 
+
+---
+
+Let's Connect
+LinkedIn: [linkedin.com/in/s-n-mohammad-yaseen]
+GitHub: [github.com/SNMohammad-yaseen]
+Email: [my475979@gmai.com]
+

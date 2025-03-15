@@ -42,7 +42,7 @@ Databases: MySQL
 ---
 
 Let's Connect
-LinkedIn: [linkedin.com/in/s-n-mohammad-yaseen]
-GitHub: [github.com/SNMohammad-yaseen]
+LinkedIn: [https://www.linkedin.com/in/s-n-mohammad-yaseen-728643235/]
+GitHub: [https://github.com/SNMohammad-yaseen]
 Email: [my475979@gmai.com]
 

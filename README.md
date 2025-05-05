@@ -1,6 +1,6 @@
 Hi, I'm S.N. Mohammad Yaseen
 
-Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning
+Aspiring Data Analyst | SQL | Python | Power BI | Machine Learning | Deep Learning 
 
 I am a passionate Data Analyst currently pursuing a B.Tech in Data Science. I love working with data, uncovering insights, and building impactful dashboards & ML models. Currently, I am working on Stock Market Analysis using Tableau & Python.
 
